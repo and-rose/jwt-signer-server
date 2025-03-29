@@ -1,5 +1,5 @@
 {
-  "name": "jwt-signer",
+  "name": "jwt-signer-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
